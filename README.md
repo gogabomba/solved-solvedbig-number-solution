@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedbig-number-solution
+<br>
+In this task, you are going to write a C++ class to handle very large numbers. The following prototype is given.“`cppclass LLONG{public:LLONG();LLONG(int);LLONG(const LLONG &amp;);~LLONG();void add(const LLONG &amp;);void subtract(const LLONG &amp;);void multiply(const LLONG &amp;);void divide(const LLONG &amp;);void mod(const LLONG &amp;);std::ostream &amp; output (std::ostream &amp;);int compare(const LLONG &amp;);// return 0 for equal, 1 for , -1 for &lt;private:… // your design here… // you are not allowed to use string here};“`
